@@ -1,29 +1,42 @@
-<p align="left"> 
-  Olá,Meu nome é Gustavo e estou a procura do meu primeiro Emprego!!!
-  tenho Experiência pessoal com computadores e informática,Inglês intermediário e muita vontade de aprender.
-</p>
 
-<p align="left">
-  🦄 Linguagens:
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png">
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888847.png">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968238.png">
-</p>
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<p align="left">
-  <strong>Contato:</strong>
-  Fique a vontade em checar minhas redes logo abaixo:
-</p>
+<h3> :woman: &nbsp;Sobre mim </h3>
 
-<p align="left">
-  <a href="Anygustavocosta@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
+- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
-  <a href="https://www.linkedin.com/in/gustavo-costa-563145208/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-  <a href="https://www.instagram.com/asthegust/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+**Aplicações e Dados**
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+**Utilidades**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+<br/>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Gustavo](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-costa-563145208/)](https://www.linkedin.com/in/gustavo-costa-563145208/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub Gustavo]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](http://github.com/astheGust)
