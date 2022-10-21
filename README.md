@@ -18,7 +18,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <br/>
-<br/>
 <h3> :earth_americas: &nbsp;Contatos:</h3> 
 
 [![Linkedin:](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-costa-563145208/)](https://www.linkedin.com/in/gustavo-costa-563145208/)
