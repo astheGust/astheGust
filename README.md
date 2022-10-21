@@ -1,9 +1,10 @@
-<h3> :Man: &nbsp;Sobre mim </h3>
+<h3><strong>Sobre mim:</strong></h3>
+<p>Olá, meu Nome é Gustavo e estou em busca do meu primeiro Job na areá de programação e informática em geral, Fique a vontade para passear pelo meu Perfil, espero que goste do que tenho para apresentar. :3 </p>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando Javascript,Jquery e Banco de dados</a>.
+- 🌱 &nbsp; Aquele Inglês que da pra entender mas com falta de prática para se comunicar bem.
+- Estou e aperfeiçoando em Javascript e responsividade com Html,css e Mediaquerie.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -18,7 +19,7 @@
 
 <br/>
 <br/>
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Contatos:</h3> 
 
 [![Linkedin:](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-costa-563145208/)](https://www.linkedin.com/in/gustavo-costa-563145208/)
 [![Gmail Badge](https://img.shields.io/badge/-anygustavocosta@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anygustavocosta@gmail.com)](mailto:SEU-EMAIL)
