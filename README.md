@@ -2,7 +2,7 @@
 <p>Olá, meu Nome é Gustavo e estou em busca do meu primeiro Job na areá de programação e informática em geral, Fique a vontade para passear pelo meu Perfil, espero que goste do que tenho para apresentar. :3 </p>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Javascript,Jquery e Banco de dados</a>.
+- 🎓 &nbsp; No momento: estudando Javascript,Mediaquery e Banco de dados, Em breve: frameworks java e Linguagem Php.</a>.
 - 🌱 &nbsp; Aquele Inglês que da pra entender mas com falta de prática para se comunicar bem.
 - Estou e aperfeiçoando em Javascript e responsividade com Html,css e Mediaquerie.
 
