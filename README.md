@@ -101,20 +101,6 @@ Atualmente estudando e desenvolvendo com foco em:
 
 ---
 
-### Estatísticas
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=astheGust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&icon_color=7aa2f7" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astheGust&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astheGust&theme=tokyonight&hide_border=true&background=1a1b26" />
-</div>
-
----
-
 ### Contato
 
 <div align="center">
