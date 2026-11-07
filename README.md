@@ -3,7 +3,8 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul. Foco atualmente em desenvolvimento Web fullstack. Buscando a primeira oportunidade como Desenvolvedor Júnior ou Estagiário na área de Tecnologia, fique a vontade para ver o que ja criei.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-203d-42ac-a169-42b781de607f.gif" width="100%" height="4px" alt="divider"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/git.svg" width="0" height="0"/>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='2'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:%233b82f6;stop-opacity:0' /><stop offset='50%' style='stop-color:%238b5cf6;stop-opacity:1' /><stop offset='100%' style='stop-color:%233b82f6;stop-opacity:0' /></linearGradient></defs><rect width='1000' height='2' fill='url(%23grad)' /></svg>" width="100%" />
 </p>
 
 ### Stack
@@ -12,7 +13,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro
 - **Ferramentas:** Git, GitHub, VS Code
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-203d-42ac-a169-42b781de607f.gif" width="100%" height="4px" alt="divider"/>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='2'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:%233b82f6;stop-opacity:0' /><stop offset='50%' style='stop-color:%238b5cf6;stop-opacity:1' /><stop offset='100%' style='stop-color:%233b82f6;stop-opacity:0' /></linearGradient></defs><rect width='1000' height='2' fill='url(%23grad)' /></svg>" width="100%" />
 </p>
 
 ### Projetos Principais
@@ -20,7 +21,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro
 - **[youtubeAnalys](https://github.com/astheGust/youtubeAnalys):** Aplicação fullstack para mineração e análise de playlists do YouTube (Python, Flask, Chart.js, IA).
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-203d-42ac-a169-42b781de607f.gif" width="100%" height="4px" alt="divider"/>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='2'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:%233b82f6;stop-opacity:0' /><stop offset='50%' style='stop-color:%238b5cf6;stop-opacity:1' /><stop offset='100%' style='stop-color:%233b82f6;stop-opacity:0' /></linearGradient></defs><rect width='1000' height='2' fill='url(%23grad)' /></svg>" width="100%" />
 </p>
 
 ### Contato
