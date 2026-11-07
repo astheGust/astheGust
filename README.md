@@ -127,8 +127,6 @@ Atualmente estudando e desenvolvendo com foco em:
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=astheGust&style=for-the-badge&color=3A0CA3&label=Profile+views" alt="Profile views"/>
-
 </div>
 
 ---
