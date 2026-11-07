@@ -1,119 +1,150 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Gustavo — banner espacial animado" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=200&section=header&text=Gustavo%20Costa&fontSize=42&fontColor=E0E7FF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20%7C%20Next.js%20%7C%20Python&descAlignY=55&descSize=16" width="100%"/>
 
-<a href="https://github.com/astheGust">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=Navegando+pelos+horizontes+infinitos+do+c%C3%B3digo;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Web+din%C3%A2mica+%2B+automa%C3%A7%C3%B5es+inteligentes+em+Python;Em+busca+da+primeira+vaga+de+Dev+J%C3%BAnior+%2F+Est%C3%A1gio" alt="Frases digitadas: código, ADS, web e Python, busca por estágio" />
-</a>
+  <br/>
 
-<br/>
+  <img src="https://media.giphy.com/media/r4QMwHgStosIo/giphy.gif" width="420" alt="space"/>
+
+  <br/><br/>
+
+  ### Olá! Eu sou o Gustavo
+
+  Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.  
+  Focado em aplicações web fullstack e automações.  
+  Buscando a primeira oportunidade como **Desenvolvedor Júnior** ou **Estagiário**.
+
+  <br/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A5B4FC&center=true&vCenter=true&width=580&lines=Construindo+aplica%C3%A7%C3%B5es+web+end-to-end;Next.js+%2B+TypeScript+%2B+Supabase;Python+%2B+Flask+%2B+Automa%C3%A7%C3%B5es)](https://git.io/typing-svg)
 
 </div>
 
-<!--
-🌌 ESPAÇO 1 — faixa larga de espaço (galáxia ou nebulosa em loop, ~1000px de largura).
-Salve em assets/espaco-topo.gif e remova as marcas de comentário:
+---
+
+### Sobre mim
+
+Perfil orientado a projetos (hands-on), com experiência prática na construção de sistemas completos — frontend, backend, autenticação, banco de dados em nuvem e processamento de dados.
+
+Atualmente estudando e desenvolvendo com foco em:
+
+- Desenvolvimento Web Fullstack  
+- Automações e análise de dados  
+- Interfaces modernas e performáticas
+
+---
+
+### Tecnologias
 
 <div align="center">
-  <img src="assets/espaco-topo.gif" width="100%" alt="Galáxia" />
-</div>
 
-Para usar vídeo no lugar do GIF: arraste o .mp4 para o editor do README no GitHub, copie a URL
-gerada (user-attachments) e cole sozinha em uma linha, fora do comentário.
--->
+**Linguagens**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+**Frameworks & Bibliotecas**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<h2 align="center">🛰️ Central de Comando</h2>
+**Banco de Dados & Backend**  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-| 🛰️ Painel da missão | Dados de bordo |
-|:--|:--|
-| 🧑‍🚀 **Tripulante** | Gustavo |
-| 🎓 **Academia estelar** | Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul |
-| 🎯 **Objetivo** | Primeira oportunidade profissional como **Desenvolvedor Júnior / Estagiário** |
-| ⚡ **Combustível** | Experiências web dinâmicas, automações inteligentes em Python e arquiteturas escaláveis |
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">💻 Sistemas &amp; Tecnologias de Bordo</h2>
-
-<div align="center">
-
-**Principais**<br/>
-<img src="https://img.shields.io/badge/React-1e1b4b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-1e1b4b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-1e1b4b?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-1e1b4b?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1e1b4b?style=for-the-badge&logo=css3&logoColor=2965F1" alt="CSS3" />
-
-<br/>
-
-**Também a bordo**<br/>
-<img src="https://img.shields.io/badge/Node.js-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=83CD29" alt="Node.js" />
-<img src="https://img.shields.io/badge/Next.js-1e1b4b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Flask-1e1b4b?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Supabase-1e1b4b?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-<img src="https://img.shields.io/badge/Git-1e1b4b?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-1e1b4b?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-<!--
-🪐 ESPAÇO 2 — imagem/GIF centralizado (astronauta, planeta ou satélite flutuando, ~400px de largura).
-Salve em assets/espaco-meio.gif e remova as marcas de comentário:
+---
 
-<div align="center">
-  <img src="assets/espaco-meio.gif" width="400" alt="Astronauta flutuando" />
-</div>
--->
+### Projetos em destaque
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center">🌠 Missões Atuais &amp; Projetos em Órbita</h2>
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%" valign="top">
-      <h3>🎵 Dashboard de Partituras</h3>
-      <p>Plataforma web avançada para gerenciamento, estudo e organização inteligente de partituras.</p>
-      <img src="https://img.shields.io/badge/Next.js-1e1b4b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/TypeScript-1e1b4b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Supabase-1e1b4b?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+    <td width="50%" valign="top">
+      <h3>Dashboard de Partituras</h3>
+      <p>
+        Plataforma web para organização, gerenciamento inteligente e estudo de partituras musicais.
+      </p>
+      <p>
+        <strong>Stack:</strong> Next.js · TypeScript · Supabase
+      </p>
+      <p>
+        • Autenticação de usuários<br/>
+        • Banco de dados em nuvem<br/>
+        • Interface moderna e responsiva
+      </p>
     </td>
-    <td align="center" width="50%" valign="top">
-      <h3>📊 youtubeAnalys</h3>
-      <p>Aplicação web fullstack para mineração e análise visual de metadados de playlists do YouTube, assistida por IA.</p>
-      <img src="https://img.shields.io/badge/Flask-1e1b4b?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/JavaScript-1e1b4b?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <td width="50%" valign="top">
+      <h3>youtubeAnalys</h3>
+      <p>
+        Aplicação fullstack para buscar dados de playlists do YouTube, processar metadados e gerar análises visuais.
+      </p>
+      <p>
+        <strong>Stack:</strong> Python (Flask) · JavaScript · Chart.js · IA
+      </p>
+      <p>
+        • Coleta e processamento de metadados<br/>
+        • Visualizações interativas<br/>
+        • Integração com inteligência artificial
+      </p>
     </td>
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+---
 
-<h2 align="center">📡 Telemetria Estelar</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=astheGust&background=0d1117&border=4c1d95&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=94a3b8&border_radius=12" alt="Sequência de contribuições" />
-</div>
-
-<!--
-🚀 ESPAÇO 3 — faixa larga acima do rodapé (foguete, cometa ou viagem espacial, ~1000px de largura).
-Salve em assets/espaco-rodape.gif e remova as marcas de comentário:
+### Estatísticas
 
 <div align="center">
-  <img src="assets/espaco-rodape.gif" width="100%" alt="Viagem espacial" />
-</div>
--->
 
-<!--
-CONTATO (opcional) — troque SEU-USUARIO pelos seus links e remova as marcas de comentário:
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=asTheGust&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=E0E7FF"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asTheGust&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E0E7FF"/>
+
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asTheGust&theme=radical&hide_border=true&background=0D1117&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC" alt="GitHub Streak"/>
 </div>
--->
 
-<img src="assets/footer.svg" width="100%" alt="Que a força e o código limpo estejam com você" />
+---
+
+### Contato
+
+<div align="center">
+
+  Estou aberto a oportunidades e colaborações.
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/asthegust">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:anygustavocosta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=asTheGust&style=for-the-badge&color=3A0CA3&label=Profile+views" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=100&section=footer"/>
+
+  <br/>
+
+  <sub>Feito com dedicação e curiosidade</sub>
+
+</div>
