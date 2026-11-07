@@ -53,6 +53,7 @@ Atualmente estudando e desenvolvendo com foco em:
 
 **Banco de Dados & Backend**  
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Sql](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 **Ferramentas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
