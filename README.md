@@ -4,8 +4,7 @@
 
   <br/>
 
-  <!-- Linha de estrelas simples e larga -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" alt=""/>
+  <img src="assets/starsSky" width="100%" alt=""/>
 
   <br/><br/>
 
@@ -130,7 +129,5 @@ Atualmente estudando e desenvolvendo com foco em:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=90&section=footer"/>
 
   <br/>
-
-  <sub>Feito com dedicação e curiosidade</sub>
 
 </div>
