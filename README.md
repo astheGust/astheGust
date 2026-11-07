@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="assets/starsSky" width="100%" alt=""/>
+  <img src="assets/starsSky.gif" width="100%" alt=""/>
 
   <br/><br/>
 
