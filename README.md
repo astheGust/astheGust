@@ -1,39 +1,107 @@
-<halign align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,19,20&height=180&section=header&text=Olá,%20Mundo!%20🚀&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
-</halign>
-
 <div align="center">
-  <h3>✨ Navegando pelo cosmos da programação e desenvolvimento de software ✨</h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=180&section=header&text=Gustavo%20Costa&fontSize=40&fontColor=E0E7FF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20%7C%20Next.js%20%7C%20Python&descAlignY=55&descSize=15" width="100%"/>
+
+  <br/>
+
+  <!-- Linha de estrelas simples e larga -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" alt=""/>
+
+  <br/><br/>
+
+  ### Olá! Eu sou o Gustavo
+
+  Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.  
+  Focado em aplicações web fullstack e automações.  
+  Buscando a primeira oportunidade como **Desenvolvedor Júnior** ou **Estagiário**.
+
+  <br/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=A5B4FC&center=true&vCenter=true&width=580&lines=Construindo+aplica%C3%A7%C3%B5es+web+end-to-end;Next.js+%2B+TypeScript+%2B+Supabase;Python+%2B+Flask+%2B+Automa%C3%A7%C3%B5es)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 🛰️ Sobre Mim
-* 🔭 Atualmente estudando **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul.
-* 🚀 Em busca da minha primeira oportunidade profissional como **Desenvolvedor Júnior / Estagiário**.
-* 🌌 Apaixonado por criar soluções web dinâmicas, automações em Python e explorar mecânicas de jogos.
+### Sobre mim
+
+Perfil orientado a projetos (hands-on), com experiência prática na construção de sistemas completos — frontend, backend, autenticação, banco de dados em nuvem e processamento de dados.
+
+Atualmente estudando e desenvolvendo com foco em:
+
+- Desenvolvimento Web Fullstack  
+- Automações e análise de dados  
+- Interfaces modernas e performáticas
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+### Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,vscode,nodejs,nextjs,supabase" />
+
+**Linguagens**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Bibliotecas**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Banco de Dados & Backend**  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
 ---
 
-### 🌌 Projetos em Órbitas Recentes
+### Projetos em destaque
 
-Aqui estão alguns dos meus principais sistemas e projetos em desenvolvimento:
-
-* 📊 **youtubeAnalys** — Aplicação web (Flask, JS, Chart.js) que consome dados de playlists do YouTube e processa metadados com IA.
-* 🎵 **Dashboard de Partituras** — Plataforma web (Next.js, TypeScript, Supabase) para gerenciamento e autenticação de partituras.
-* 🕹️ **Projetos em Godot (GDScript)** — Experimentos com mecânicas 2D, animações de texto estilo *typewriter* e sistemas de inventário/diálogo.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Dashboard de Partituras</h3>
+      <p>
+        Plataforma web para organização, gerenciamento inteligente e estudo de partituras musicais.
+      </p>
+      <p>
+        <strong>Stack:</strong> Next.js · TypeScript · Supabase
+      </p>
+      <p>
+        • Autenticação de usuários<br/>
+        • Banco de dados em nuvem<br/>
+        • Interface moderna e responsiva
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>youtubeAnalys</h3>
+      <p>
+        Aplicação fullstack para buscar dados de playlists do YouTube, processar metadados e gerar análises visuais.
+      </p>
+      <p>
+        <strong>Stack:</strong> Python (Flask) · JavaScript · Chart.js · IA
+      </p>
+      <p>
+        • Coleta e processamento de metadados<br/>
+        • Visualizações interativas<br/>
+        • Integração com inteligência artificial
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 Estatísticas Estelares
+### Estatísticas
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=astheGust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&icon_color=7aa2f7" />
@@ -47,6 +115,36 @@ Aqui estão alguns dos meus principais sistemas e projetos em desenvolvimento:
 
 ---
 
+### Contato
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,19,20&height=100&section=footer&text=Que%20a%20força%20esteja%20com%20o%20seu%20código!%20✨&fontSize=16&fontColor=ffffff" width="100%" />
+
+  Estou aberto a oportunidades e colaborações.
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/asthegust">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:anygustavocosta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=astheGust&style=for-the-badge&color=3A0CA3&label=Profile+views" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=90&section=footer"/>
+
+  <br/>
+
+  <sub>Feito com dedicação e curiosidade</sub>
+
 </div>
