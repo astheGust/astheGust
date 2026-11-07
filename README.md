@@ -132,11 +132,3 @@ Atualmente estudando e desenvolvendo com foco em:
 </div>
 
 ---
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=90&section=footer" width="100%"/>
-
-  <br/>
-
-</div>
