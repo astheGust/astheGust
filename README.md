@@ -8,9 +8,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=astheGust&label=Viajantes+a+bordo&color=7c3aed&style=for-the-badge&labelColor=0d1117" alt="Contador de visitas" />
-<img src="https://img.shields.io/github/followers/astheGust?label=Tripulação&style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117" alt="Seguidores no GitHub" />
-
 </div>
 
 <!--
