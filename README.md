@@ -1,6 +1,6 @@
-### Olá, eu sou o Gustavo
+### Olá, Me chamo Gustavo
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul. Focado em desenvolvimento web fullstack e automações. Buscando a primeira oportunidade como Desenvolvedor Júnior ou Estagiário.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul. Foco atualmente em desenvolvimento Web fullstack. Buscando a primeira oportunidade como Desenvolvedor Júnior ou Estagiário na área de Tecnologia, fique a vontade para ver o que eu ja fiz.
 
 ---
 
