@@ -1,4 +1,3 @@
-<!-- Bloco de Estilização CSS Nativa (Tema Espacial / Neon) -->
 <style>
   .space-card {
     background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
@@ -29,8 +28,6 @@
   <h1>🌌 Olá, viajante! Eu sou o Gustavo 🚀</h1>
   <p><em>"Navegando pelos horizontes infinitos do código, algoritmos e universos digitais."</em></p>
 </div>
-
----
 
 <div class="space-card">
   <h3 class="space-title">🛰️ Central de Comando (Sobre Mim)</h3>
