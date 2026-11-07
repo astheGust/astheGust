@@ -1,70 +1,122 @@
-<style>
-  .space-card {
-    background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
-    border: 1px solid #30363d;
-    border-radius: 12px;
-    padding: 20px;
-    margin-bottom: 16px;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-  }
-  .space-title {
-    color: #58a6ff;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  }
-  .space-badge {
-    display: inline-block;
-    padding: 4px 10px;
-    font-size: 12px;
-    font-weight: 600;
-    color: #c9d1d9;
-    background-color: #21262d;
-    border: 1px solid #30363d;
-    border-radius: 20px;
-    margin: 2px;
-  }
-</style>
+<div align="center">
+
+<img src="assets/banner.svg" alt="Gustavo — banner espacial animado" width="100%" />
+
+<a href="https://github.com/astheGust">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=Navegando+pelos+horizontes+infinitos+do+c%C3%B3digo;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Web+din%C3%A2mica+%2B+automa%C3%A7%C3%B5es+inteligentes+em+Python;Em+busca+da+primeira+vaga+de+Dev+J%C3%BAnior+%2F+Est%C3%A1gio" alt="Frases digitadas: código, ADS, web e Python, busca por estágio" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=astheGust&label=Viajantes+a+bordo&color=7c3aed&style=for-the-badge&labelColor=0d1117" alt="Contador de visitas" />
+<img src="https://img.shields.io/github/followers/astheGust?label=Tripulação&style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117" alt="Seguidores no GitHub" />
+
+</div>
+
+<!--
+🌌 ESPAÇO 1 — faixa larga de espaço (galáxia ou nebulosa em loop, ~1000px de largura).
+Salve em assets/espaco-topo.gif e remova as marcas de comentário:
 
 <div align="center">
-  <h1>🌌 Olá, viajante! Eu sou o Gustavo 🚀</h1>
-  <p><em>"Navegando pelos horizontes infinitos do código, algoritmos e universos digitais."</em></p>
+  <img src="assets/espaco-topo.gif" width="100%" alt="Galáxia" />
 </div>
 
-<div class="space-card">
-  <h3 class="space-title">🛰️ Central de Comando (Sobre Mim)</h3>
-  <ul>
-    <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Cruzeiro do Sul.</li>
-    <li>🎯 Em órbita em busca da primeira oportunidade profissional como <strong>Desenvolvedor Júnior / Estagiário</strong>.</li>
-    <li>⚡ Foco prático em desenvolvimento web fullstack, bancos de dados em nuvem e automações inteligentes.</li>
-  </ul>
+Para usar vídeo no lugar do GIF: arraste o .mp4 para o editor do README no GitHub, copie a URL
+gerada (user-attachments) e cole sozinha em uma linha, fora do comentário.
+-->
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">🛰️ Central de Comando</h2>
+
+| 🛰️ Painel da missão | Dados de bordo |
+|:--|:--|
+| 🧑‍🚀 **Tripulante** | Gustavo |
+| 🎓 **Academia estelar** | Análise e Desenvolvimento de Sistemas — Universidade Cruzeiro do Sul |
+| 🎯 **Objetivo** | Primeira oportunidade profissional como **Desenvolvedor Júnior / Estagiário** |
+| ⚡ **Combustível** | Experiências web dinâmicas, automações inteligentes em Python e arquiteturas escaláveis |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">💻 Sistemas &amp; Tecnologias de Bordo</h2>
+
+<div align="center">
+
+**Principais**<br/>
+<img src="https://img.shields.io/badge/React-1e1b4b?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-1e1b4b?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-1e1b4b?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-1e1b4b?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1e1b4b?style=for-the-badge&logo=css3&logoColor=2965F1" alt="CSS3" />
+
+<br/>
+
+**Também a bordo**<br/>
+<img src="https://img.shields.io/badge/Node.js-1e1b4b?style=flat-square&logo=nodedotjs&logoColor=83CD29" alt="Node.js" />
+<img src="https://img.shields.io/badge/Next.js-1e1b4b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Flask-1e1b4b?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Supabase-1e1b4b?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+<img src="https://img.shields.io/badge/Git-1e1b4b?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-1e1b4b?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+
 </div>
 
-<div class="space-card">
-  <h3 class="space-title">💻 Tecnologias de Bordo</h3>
-  <div align="center" style="margin-top: 15px;">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,vscode,nodejs,nextjs,supabase" alt="Tech Stack" />
-  </div>
+<!--
+🪐 ESPAÇO 2 — imagem/GIF centralizado (astronauta, planeta ou satélite flutuando, ~400px de largura).
+Salve em assets/espaco-meio.gif e remova as marcas de comentário:
+
+<div align="center">
+  <img src="assets/espaco-meio.gif" width="400" alt="Astronauta flutuando" />
+</div>
+-->
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">🌠 Missões Atuais &amp; Projetos em Órbita</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🎵 Dashboard de Partituras</h3>
+      <p>Plataforma web avançada para gerenciamento, estudo e organização inteligente de partituras.</p>
+      <img src="https://img.shields.io/badge/Next.js-1e1b4b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-1e1b4b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Supabase-1e1b4b?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>📊 youtubeAnalys</h3>
+      <p>Aplicação web fullstack para mineração e análise visual de metadados de playlists do YouTube, assistida por IA.</p>
+      <img src="https://img.shields.io/badge/Flask-1e1b4b?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/JavaScript-1e1b4b?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center">📡 Telemetria Estelar</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=astheGust&background=0d1117&border=4c1d95&ring=a78bfa&fire=f472b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=94a3b8&border_radius=12" alt="Sequência de contribuições" />
 </div>
 
-<div class="space-card">
-  <h3 class="space-title">🌠 Missões em Andamento & Projetos Reais</h3>
-  <ul>
-    <li>🎵 <strong>Dashboard de Partituras</strong> — Plataforma web avançada com <strong>Next.js, TypeScript e Supabase</strong> para gerenciamento, estudo e organização inteligente de partituras musicais.</li>
-    <li>📊 <strong>youtubeAnalys</strong> — Aplicação web (Flask, JavaScript) para consumo de playlists do YouTube e processamento de dados.</li>
-    <li>🕹️ <strong>Laboratório Godot (GDScript)</strong> — Desenvolvimento prático de mecânicas 2D (como caixas de texto com efeito <em>typewriter</em>, tweens e sensores de proximidade).</li>
-  </ul>
-</div>
+<!--
+🚀 ESPAÇO 3 — faixa larga acima do rodapé (foguete, cometa ou viagem espacial, ~1000px de largura).
+Salve em assets/espaco-rodape.gif e remova as marcas de comentário:
 
-<div class="space-card">
-  <h3 class="space-title">📡 Telemetria e Estatísticas Estelares</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=astheGust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c0caf5&icon_color=7aa2f7" alt="GitHub Stats" />
-    <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astheGust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c0caf5" alt="Top Langs" />
-    <br/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=astheGust&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
-  </div>
+<div align="center">
+  <img src="assets/espaco-rodape.gif" width="100%" alt="Viagem espacial" />
 </div>
+-->
 
-<div align="center" style="color: #8b949e; margin-top: 30px;">
-  <p>✨ <em>Que a força e o código limpo estejam com você!</em> ✨</p>
+<!--
+CONTATO (opcional) — troque SEU-USUARIO pelos seus links e remova as marcas de comentário:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail" /></a>
 </div>
+-->
+
+<img src="assets/footer.svg" width="100%" alt="Que a força e o código limpo estejam com você" />
