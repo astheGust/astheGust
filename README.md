@@ -1,10 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=200&section=header&text=Gustavo%20Costa&fontSize=42&fontColor=E0E7FF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20%7C%20Next.js%20%7C%20Python&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=180&section=header&text=Gustavo%20Costa&fontSize=40&fontColor=E0E7FF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Fullstack%20%7C%20Next.js%20%7C%20Python&descAlignY=55&descSize=15" width="100%"/>
 
   <br/>
 
-  <img src="https://media.giphy.com/media/r4QMwHgStosIo/giphy.gif" width="420" alt="space"/>
+  <!-- Linha de estrelas simples e larga -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%" alt=""/>
 
   <br/><br/>
 
@@ -104,13 +105,13 @@ Atualmente estudando e desenvolvendo com foco em:
 
 <div align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=asTheGust&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=E0E7FF"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asTheGust&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E0E7FF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=asTheGust&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=E0E7FF&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asTheGust&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E0E7FF&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asTheGust&theme=radical&hide_border=true&background=0D1117&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=asTheGust&theme=radical&hide_border=true&background=0D1117&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -141,7 +142,7 @@ Atualmente estudando e desenvolvendo com foco em:
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E17,50:1A1A40,100:3A0CA3&height=90&section=footer"/>
 
   <br/>
 
