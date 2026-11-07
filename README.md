@@ -4,10 +4,6 @@
 
   <br/>
 
-  <img src="assets/starsSky.gif" alt="Stars Sky Banner" style="width: 100%; height: 120px; object-fit: cover; -webkit-mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent); mask-image: linear-gradient(to bottom, transparent, black 20%, black 80%, transparent);" />
-
-  <br/><br/>
-
   ### Olá! Eu sou o Gustavo
 
   Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.  
