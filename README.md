@@ -1,50 +1,73 @@
+<!-- Bloco de Estilização CSS Nativa (Tema Espacial / Neon) -->
+<style>
+  .space-card {
+    background: linear-gradient(135deg, #0d1117 0%, #161b22 100%);
+    border: 1px solid #30363d;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+  }
+  .space-title {
+    color: #58a6ff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  .space-badge {
+    display: inline-block;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #c9d1d9;
+    background-color: #21262d;
+    border: 1px solid #30363d;
+    border-radius: 20px;
+    margin: 2px;
+  }
+</style>
+
 <div align="center">
-  <img src="./assets/espaco.gif" width="100%" alt="Banner Galáxia" />
-  
-  <h1>🚀 Olá, mundo! Eu sou o Gustavo</h1>
-  <p><em>"Desenvolvedor em órbita, transformando lógica em aplicações web e universos digitais."</em></p>
+  <h1>🌌 Olá, viajante! Eu sou o Gustavo 🚀</h1>
+  <p><em>"Navegando pelos horizontes infinitos do código, algoritmos e universos digitais."</em></p>
 </div>
 
 ---
 
-### 🛰️ Central de Comando (Sobre Mim)
-* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.
-* 🎯 Em busca da minha primeira oportunidade profissional como **Desenvolvedor Júnior / Estagiário**.
-* ⚡ Foco prático em desenvolvimento web fullstack, bancos de dados em nuvem e automações.
-
----
-
-### 💻 Tecnologias de Bordo
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,vscode,nodejs,nextjs,supabase" alt="Tech Stack" />
+<div class="space-card">
+  <h3 class="space-title">🛰️ Central de Comando (Sobre Mim)</h3>
+  <ul>
+    <li>🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Cruzeiro do Sul.</li>
+    <li>🎯 Em órbita em busca da primeira oportunidade profissional como <strong>Desenvolvedor Júnior / Estagiário</strong>.</li>
+    <li>⚡ Foco prático em desenvolvimento web fullstack, bancos de dados em nuvem e automações inteligentes.</li>
+  </ul>
 </div>
 
----
-
-### 🌠 Missões em Andamento & Projetos Reais
-
-* 🎵 **Dashboard de Partituras** — Plataforma web desenvolvida com **Next.js, TypeScript e Supabase** voltada para a organização, gerenciamento inteligente e estudo de partituras musicais.
-* 📊 **youtubeAnalys** — Aplicação web (Flask, JavaScript) para consumo de playlists do YouTube e processamento de dados.
-* 🕹️ **Laboratório Godot (GDScript)** — Desenvolvimento prático de mecânicas 2D (como caixas de texto com efeito *typewriter*, tweens e sensores de proximidade).
-
----
-
-### 📡 Telemetria e Estatísticas Estelares
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astheGust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c0caf5&icon_color=7aa2f7" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astheGust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c0caf5" alt="Top Langs" />
+<div class="space-card">
+  <h3 class="space-title">💻 Tecnologias de Bordo</h3>
+  <div align="center" style="margin-top: 15px;">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,vscode,nodejs,nextjs,supabase" alt="Tech Stack" />
+  </div>
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astheGust&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+<div class="space-card">
+  <h3 class="space-title">🌠 Missões em Andamento & Projetos Reais</h3>
+  <ul>
+    <li>🎵 <strong>Dashboard de Partituras</strong> — Plataforma web avançada com <strong>Next.js, TypeScript e Supabase</strong> para gerenciamento, estudo e organização inteligente de partituras musicais.</li>
+    <li>📊 <strong>youtubeAnalys</strong> — Aplicação web (Flask, JavaScript) para consumo de playlists do YouTube e processamento de dados.</li>
+    <li>🕹️ <strong>Laboratório Godot (GDScript)</strong> — Desenvolvimento prático de mecânicas 2D (como caixas de texto com efeito <em>typewriter</em>, tweens e sensores de proximidade).</li>
+  </ul>
 </div>
 
----
+<div class="space-card">
+  <h3 class="space-title">📡 Telemetria e Estatísticas Estelares</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=astheGust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c0caf5&icon_color=7aa2f7" alt="GitHub Stats" />
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astheGust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c0caf5" alt="Top Langs" />
+    <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=astheGust&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+  </div>
+</div>
 
-<div align="center">
-  <img src="./assets/espaco.gif" width="100%" alt="Rodapé Galáxia" />
-  <p><br/>✨ <em>Que a força e o código limpo estejam com você!</em> ✨</p>
+<div align="center" style="color: #8b949e; margin-top: 30px;">
+  <p>✨ <em>Que a força e o código limpo estejam com você!</em> ✨</p>
 </div>
