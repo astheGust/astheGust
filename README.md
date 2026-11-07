@@ -15,7 +15,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro
 <hr>
 
 ### Projetos Principais
-- **[Dashboard de Partituras](https://github.com/astheGust/dashboard-de-partituras):** Plataforma web para organização e estudo de partituras (Next.js, TypeScript, Supabase).
+- **[Dashboard de Partituras](https://github.com/astheGust/sheetMusicStudy):** Plataforma web para organização e estudo de partituras (Next.js, TypeScript, Supabase).
 - **[youtubeAnalys](https://github.com/astheGust/youtubeAnalys):** Aplicação fullstack para mineração e análise de playlists do YouTube (Python, Flask, Chart.js, IA).
 
 <p align="center">
