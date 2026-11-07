@@ -1,52 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,19,20&height=180&section=header&text=Olá,%20Mundo!%20🚀&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <!-- Banner animado de galáxia/espaço -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 <div align="center">
-  <h3>✨ Navegando pelo cosmos da programação e desenvolvimento de software ✨</h3>
-</div>
-
----
-
-### 🛰️ Sobre Mim
-* 🔭 Atualmente estudando **Análise e Desenvolvimento de Sistemas** na Cruzeiro do Sul.
-* 🚀 Em busca da minha primeira oportunidade profissional como **Desenvolvedor Júnior / Estagiário**.
-* 🌌 Apaixonado por criar soluções web dinâmicas, automações em Python, sistemas em nuvem e explorar mecânicas de jogos.
-
----
-
-### 💻 Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,vscode,nodejs,nextjs,supabase" />
+  <h1>🌌 Olá, viajante! Eu sou o Gustavo 🚀</h1>
+  <p><em>"Navegando pelos horizontes infinitos do código, algoritmos e universos virtuais."</em></p>
 </div>
 
 ---
 
-### 🌌 Projetos em Órbitas Recentes
-
-Aqui estão alguns dos meus principais sistemas e projetos em desenvolvimento:
-
-* 🎵 **Dashboard de Partituras** — Plataforma web desenvolvida com **Next.js, TypeScript e Supabase** voltada para a organização, gerenciamento inteligente e estudo de partituras.
-* 📊 **youtubeAnalys** — Aplicação web (Flask, JS, Chart.js) que consome dados de playlists do YouTube e processa metadados com IA.
-* 🕹️ **Projetos em Godot (GDScript)** — Experimentos com mecânicas 2D, animações de texto estilo *typewriter* e sistemas de inventário/diálogo.
+### 🛰️ Central de Comando (Sobre Mim)
+* 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul.
+* 🎯 Em órbita em busca da primeira oportunidade profissional como **Desenvolvedor Júnior / Estagiário**.
+* ⚡ Foco em construir experiências web dinâmicas, automações inteligentes em Python e arquiteturas escaláveis.
 
 ---
 
-### 📈 Estatísticas Estelares
+### 💻 Sistemas & Tecnologias de Bordo
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=astheGust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&icon_color=7aa2f7" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astheGust&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github,vscode,nodejs,nextjs,supabase" alt="Tech Stack" />
+</div>
+
+---
+
+### 🌠 Missões Atuais & Projetos em Órbitas Recentes
+
+* 🎵 **Dashboard de Partituras** — Plataforma web avançada com **Next.js, TypeScript e Supabase** para gerenciamento, estudo e organização inteligente de partituras.
+* 📊 **youtubeAnalys** — Aplicação web fullstack (Flask, JS, Chart.js) para mineração e análise visual de metadados de playlists do YouTube assistida por IA.
+* 🕹️ **Laboratório Godot (GDScript)** — Exploração de mecânicas 2D, animações procedurais de texto (*typewriter*) e sistemas de diálogo.
+
+---
+
+### 📡 Telemetria e Estatísticas Estelares
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=astheGust&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c0caf5&icon_color=7aa2f7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astheGust&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c0caf5" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astheGust&theme=tokyonight&hide_border=true&background=1a1b26" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astheGust&theme=tokyonight&hide_border=true&background=0d1117" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,19,20&height=100&section=footer&text=Que%20a%20força%20esteja%20com%20o%20seu%20código!%20✨&fontSize=16&fontColor=ffffff" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <p>✨ <em>Que a força e o código limpo estejam com você!</em> ✨</p>
 </div>
