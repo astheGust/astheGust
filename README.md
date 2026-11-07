@@ -105,13 +105,13 @@ Atualmente estudando e desenvolvendo com foco em:
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=asthegust&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=E0E7FF&cache_seconds=86400"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asTheGust&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E0E7FF&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=astheGust&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=818CF8&text_color=E0E7FF&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astheGust&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E0E7FF&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=asTheGust&theme=radical&hide_border=true&background=0D1117&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=astheGust&theme=radical&hide_border=true&background=0D1117&ring=818CF8&fire=A5B4FC&currStreakLabel=A5B4FC" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -134,7 +134,7 @@ Atualmente estudando e desenvolvendo com foco em:
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=asTheGust&style=for-the-badge&color=3A0CA3&label=Profile+views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=astheGust&style=for-the-badge&color=3A0CA3&label=Profile+views" alt="Profile views"/>
 
 </div>
 
