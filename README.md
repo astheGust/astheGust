@@ -7,6 +7,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro
   <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='2'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:%233b82f6;stop-opacity:0' /><stop offset='50%' style='stop-color:%238b5cf6;stop-opacity:1' /><stop offset='100%' style='stop-color:%233b82f6;stop-opacity:0' /></linearGradient></defs><rect width='1000' height='2' fill='url(%23grad)' /></svg>" width="100%" />
 </p>
 
+<hr>
+
 ### Stack
 - **Linguagens:** JavaScript, TypeScript, Python
 - **Web / Backend:** Next.js, Node.js, Flask, Supabase
@@ -15,6 +17,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro
 <p align="center">
   <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='2'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:%233b82f6;stop-opacity:0' /><stop offset='50%' style='stop-color:%238b5cf6;stop-opacity:1' /><stop offset='100%' style='stop-color:%233b82f6;stop-opacity:0' /></linearGradient></defs><rect width='1000' height='2' fill='url(%23grad)' /></svg>" width="100%" />
 </p>
+<hr>
 
 ### Projetos Principais
 - **[Dashboard de Partituras](https://github.com/astheGust/dashboard-de-partituras):** Plataforma web para organização e estudo de partituras (Next.js, TypeScript, Supabase).
@@ -23,6 +26,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro
 <p align="center">
   <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='2'><defs><linearGradient id='grad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:%233b82f6;stop-opacity:0' /><stop offset='50%' style='stop-color:%238b5cf6;stop-opacity:1' /><stop offset='100%' style='stop-color:%233b82f6;stop-opacity:0' /></linearGradient></defs><rect width='1000' height='2' fill='url(%23grad)' /></svg>" width="100%" />
 </p>
+<hr>
 
 ### Contato
 - LinkedIn: [in/asthegust](https://www.linkedin.com/in/asthegust)
